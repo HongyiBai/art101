@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+    font-size: 300%;
+
+
+
+}
+
+p {
+    font-family: "comic sans";
+    text-indent: 20px;
+    margin-left: 10px;
+
+
+}
+
+#content {
+    background-color: #7FFFD4;
+    width: 600px ;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 2px #FFC0CB;
+    font-size: 20px;
+
+
+
+}
