@@ -1,12 +1,12 @@
 h1 {
-    color: rgb(43, 226, 86);
+    color: rgb(226, 43, 43);
     font-size: 400%;
 
 
 
 }
 h2 {
-    color: rgb(226, 183, 43);
+    color: rgb(186, 43, 226);
     font-size: 300%;
 
 
@@ -22,12 +22,12 @@ p {
 }
 
 #content {
-    background-color: #49adff;
+    background-color: #134617;
     width: 2000px ;
     min-height: 300px;
     padding: 10px;
     margin: 10px;
-    border: solid 20px #e6181894;
+    border: solid 20px #4bffe794;
     font-size: 20px;
 
 
