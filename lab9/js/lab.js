@@ -1,7 +1,7 @@
-// Lab 8: Anon Functions and Callbacks
-// Write functions with callbacks
+// Lab 9: JavaScript for the Web
+// Working with your partner, experiment with DOM manipulation.
 // Hongyi Bai <hobai@ucsc.edu> Mingze Li <mli168@ucsc.edu>
-// 8 May 2023
+// 9 May 2023
 
 // Get the output <div> and assign it to a variable
 var outputEl = document.getElementById("output");
