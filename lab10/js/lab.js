@@ -23,7 +23,7 @@ var output = document.getElementById("output");
 button.addEventListener('click', function() {
     // Get the input
     var input = document.getElementById("user-name").value;
-    // Run the value through the sorting function
+    // Run the value through the sorting function and save in a variable
     var result = sortUserName(input);
     // Replace it in html 
     output.innerHTML = result;

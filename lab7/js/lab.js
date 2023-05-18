@@ -19,7 +19,7 @@ function sortUserName(name){
     //var nameSorted = nameArraySort.join('');
     //console.log("nameSorted =", nameSorted);
     //return nameSorted;
-
+    
     return name.split("").sort().join("");
     
 
