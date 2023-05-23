@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(226, 43, 73);
+    font-size: 400%;
+
+
+
+}
+h2 {
+    color: rgb(197, 231, 76);
+    font-size: 300%;
+
+
+
+}
+
+p {
+    font-family: "comic sans";
+    
+    margin-left: 10px;
+
+
+}
+
+#content {
+    background-color: #8ccbda;
+    width: 2000px ;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 4px #fb00ff94;
+    font-size: 20px;
+
+
+
+}
+
+#input-output {
+    background-color: #8ccbda;
+    width: 1000px ;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 4px #fb00ff94;
+    font-size: 20px;
+
+
+
+}
